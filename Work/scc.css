@@ -1,0 +1,36 @@
+.header {
+    
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    background-color: #fff;
+    z-index: 100;
+}
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+.btn-primary {
+    background-color: #F53838;
+    margin-top: 50px;
+    border: 0;
+}
+
+.btn-primary:hover {
+        background-color: black;
+ }
+
+
+a {
+    text-decoration: none;
+    color: #4F5665;
+}
+
+a:hover {
+        color: red;
+ }
+@font-face {
+    font-family: 'Rubik-VariableFont_wght';
+    src: url('file:///C:\Users\38063\Desktop\Work\cubek\Rubik-VariableFont_wght.ttf') format('truetype');
+}
